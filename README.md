@@ -1,4 +1,5 @@
 Test assignment for the QA Engineer position
+
 Task № 1
 
 1.First Verify that after successfully downloading the application user is able to register the mobile number or not.
@@ -58,11 +59,16 @@ Task № 1
 28.Verify that all the blocked contact lists showing in the blocked contact list or not.
 
 Task № 2
+
 I do not understand how I can test and write bug reports on a picture in which I see only two errors - this is a picture that did not load and the absence of the equal sign. Therefore, I decided to make a checklist describing what and how I would test in the calculator.
+
 1. Basic testing
 The first thing we do is check how the buttons of mathematical actions behave in general and whether they do what is needed.
+
 2. Testing large numbers
 We are testing the same mathematical operations only with numbers exceeding 100,000
+
 3. Testing unusual mathematical operations.
 We will test what and how our calculator outputs when dividing by 0, for example, or leave the fields empty, or write letters instead of a number, or leave the string empty altogether.
+
 4. I would also test decimals and operations with them, try to insert images and files into the input fields, overflow the browser buffer, run several dozen calculators at the same time, try the largest prime number in it (and divide).
