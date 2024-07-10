@@ -1,5 +1,6 @@
 Test assignment for the QA Engineer position
 Task № 1
+
 1.First Verify that after successfully downloading the application user is able to register the mobile number or not.
 
 2.Verify whether the user is able to verify the number successfully or not.
